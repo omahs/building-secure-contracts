@@ -5,7 +5,7 @@ TRON is an EVM-compatible chain.
 |---|---|---|
  [Odyssey-v3.5](https://github.com/tronprotocol/java-tron/releases/tag/Odyssey-v3.5)| [12](https://github.com/tronprotocol/TIPs/blob/master/tip-12.md)| Event subscription model
  [Odyssey-v3.5](https://github.com/tronprotocol/java-tron/releases/tag/Odyssey-v3.5) | [16](https://github.com/tronprotocol/TIPs/blob/master/tip-16.md) | Account multi-signature/different permissions support
- [Odyssey-v3.5](https://github.com/tronprotocol/java-tron/releases/tag/Odyssey-v3.5) | [17](https://github.com/tronprotocol/TIPs/blob/master/tip-17.md) | Adapative energy upper limit
+ [Odyssey-v3.5](https://github.com/tronprotocol/java-tron/releases/tag/Odyssey-v3.5) | [17](https://github.com/tronprotocol/TIPs/blob/master/tip-17.md) | Adaptive energy upper limit
  [Odyssey-v3.5.1](https://github.com/tronprotocol/java-tron/releases/tag/Odyssey-v3.5.1) | [24](https://github.com/tronprotocol/TIPs/blob/master/tip-24.md) | RocksDB offered as storage engine
  [Odyssey-v3.6.0](https://github.com/tronprotocol/java-tron/releases/tag/Odyssey-v3.6.0) | [26](https://github.com/tronprotocol/TIPs/blob/master/tip-26.md)  |Add `create2` instruction to TVM
  [Odyssey-v3.6.0](https://github.com/tronprotocol/java-tron/releases/tag/Odyssey-v3.6.0) | [28](https://github.com/tronprotocol/TIPs/blob/master/tip-28.md)  | Built-in Message Queue in Event Subscription Model
