@@ -3,7 +3,7 @@
 
 ## Transaction Tracing
 
-One great way to learn more about how the EVM works internally is to trace the execution of a transaction opcode by opcode. This technique can also help you assess the correctness of assembly code and catch problems related to the compiler or it's optimization steps.
+One great way to learn more about how the EVM works internally is to trace the execution of a transaction opcode by opcode. This technique can also help you assess the correctness of assembly code and catch problems related to the compiler or its optimization steps.
 
 The following Javascript snippet uses an `ethers` provider to connect to an ethereum node with the `debug` JSON RPC endpoints activated. Although this requires an archive node on mainnet, it can also be run quickly & easily against a local development testnet using hardhat node, ganache, or some other ethprovider that targets developers.
 
